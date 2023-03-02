@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Senem Dilli</h1>
+<h1 align="center">Hi 👋, I'm Senem Dilli 👩🏼‍💻</h1>
 
 Love to learn and experience new things, dynamic work environments, improving myself and those around me describes my personality pretty well. I have some experience in many fields, such as software development, product management, product development, game development, UX/UI, video editing, branding, etc. I want to participate in projects which would help me to practice what I have learned and also to learn by practicing, to gain more experience in different fields.
 
