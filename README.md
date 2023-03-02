@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Senem Dilli</h1>
 
+Love to learn and experience new things, dynamic work environments, improving myself and those around me describes my personality pretty well. I have some experience in many fields, such as software development, product management, product development, game development, UX/UI, video editing, branding, etc. I want to participate in projects which would help me to practice what I have learned and also to learn by practicing, to gain more experience in different fields.
+
 <header>
   <div align="center">
     <a href="https://www.senem.me">
@@ -22,7 +24,7 @@
   <div>
     <br />
     <div>
-      <a href="https://github.com/enjidev">
+      <a href="https://github.com/senemdilli">
         <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=senemdilli&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
       </a>
       <br /><br />
@@ -40,7 +42,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=senemdilli&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=senemdilli" />
-          <img alt="Enji Kusnadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=senemdilli&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
+          <img alt="Senem Dilli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=senemdilli&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
         </picture>
       </a>
     </div>
