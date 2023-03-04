@@ -32,12 +32,14 @@ Love to learn and experience new things, dynamic work environments, improving my
     <div>
       <a href="https://github.com/senemdilli?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=senemdilli&count_private=true" />
           <img alt="Senem Dilli's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=senemdilli&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
         </picture>
       </a>
       <br /><br />
       <a href="https://github.com/senemdilli?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=senemdilli" />
           <img alt="Senem Dilli's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=senemdilli&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
         </picture>
       </a>
