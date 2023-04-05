@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Senem Dilli 👩🏼‍💻</h1>
 
-Love to learn and experience new things, dynamic work environments, improving myself and those around me describes my personality pretty well. I have some experience in many fields, such as software development, product management, product development, game development, UX/UI, video editing, branding, etc. I want to participate in projects which would help me to practice what I have learned and also to learn by practicing, to gain more experience in different fields.
+As a self-motivated and proactive individual, I thrive in dynamic work environments where I can constantly learn and experience new things. My passion for improving myself and those around me has driven me to gain experience in various fields including software development, product management, game development, and more. I enjoy working collaboratively with teams, but I am also confident in working independently. I am eager to participate in projects that allow me to grow my skills and knowledge, while contributing my knowledge to achieve successful outcomes.
 
 <header>
   <div align="center">
