@@ -4,8 +4,8 @@ As a self-motivated and proactive individual, I thrive in dynamic work environme
 
 <header>
   <div align="center">
-    <a href="https://www.senem.me">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=senem.me&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+    <a href="https://www.about.senem.me">
+      <img alt="About Me" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=senem.me&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a href="https://twitter.com/senemdilli">
       <img alt="My Twitter Profile" src="https://img.shields.io/badge/Twitter-senemdilli-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
